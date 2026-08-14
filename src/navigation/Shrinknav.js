@@ -158,7 +158,7 @@ const Shrinknav = (props) => {
                         <a href='#/' aria-label="Social Media Link"><img alt="" className="logo" src={logoicon} /></a>
                     </div>
                     <div className="ms-4 mr_auto fillspace">
-                        <h2 className="headersize headerSpacing companyname-adjust mb-0 display-6 fw-bolder">Decentraliz Lottery<br /></h2>
+                        <h2 className="headersize text-blue-600 headerSpacing companyname-adjust mb-0 display-6 fw-bolder">Decentraliz Lottery<br /></h2>
                         <p className="textBodySpacing slogan-adjust mt-0 mb-2 sitelightblue textleft">The Only Crypto Lottery</p>
                     </div>
 
